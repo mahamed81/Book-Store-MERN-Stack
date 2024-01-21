@@ -1,5 +1,5 @@
 
-# DELETE     http://localhost:5555/all
+# DELETE     http://localhost:5555/books/65ad564e3c972abe5b10067c
 # Content-Type: application/json
 
 GET    http://localhost:5555/books
@@ -11,13 +11,12 @@ Content-Type: application/json
 # PUT    http://localhost:5555/create/65ab52239c38f45f8201fcac
 # Content-Type: application/json
 
-# PUT   http://localhost:5555/book/65ab52239c38f45f8211fcac
+# PUT   http://localhost:5555/books/65ad5f12de7371a338d1b0c7
 # Content-Type: application/json
 
 # {
-#     "title": "I am couragous?",
-#     "author": "Molcom",
-#      "year": 2022
-   
+#     "title": "Hey?",
+#     "author": "Hassan",
+#      "year": 2027
 # } 
 
