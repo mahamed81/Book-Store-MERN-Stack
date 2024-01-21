@@ -1,0 +1,23 @@
+
+# DELETE     http://localhost:5555/all
+# Content-Type: application/json
+
+GET    http://localhost:5555/books
+Content-Type: application/json
+
+# DELETE  http://localhost:5555/delete/65ab52239c38f45f8201fcac
+# Content-Type: application/json
+
+# PUT    http://localhost:5555/create/65ab52239c38f45f8201fcac
+# Content-Type: application/json
+
+# PUT   http://localhost:5555/book/65ab52239c38f45f8211fcac
+# Content-Type: application/json
+
+# {
+#     "title": "I am couragous?",
+#     "author": "Molcom",
+#      "year": 2022
+   
+# } 
+
