@@ -11,12 +11,12 @@ Content-Type: application/json
 # PUT    http://localhost:5555/create/65ab52239c38f45f8201fcac
 # Content-Type: application/json
 
-# PUT   http://localhost:5555/books/65ad5f12de7371a338d1b0c7
+# POST   http://localhost:5555/books/
 # Content-Type: application/json
 
 # {
-#     "title": "Hey?",
-#     "author": "Hassan",
-#      "year": 2027
+#     "title": "Bing Introvert",
+#     "author": "Micheal Joe",
+#      "year": 2021
 # } 
 
